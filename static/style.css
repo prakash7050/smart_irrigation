@@ -1,0 +1,9 @@
+
+img {
+    max-width: 100%;
+}
+img.thumbnail {
+    width: 500px;
+    height: 500px;
+
+}
